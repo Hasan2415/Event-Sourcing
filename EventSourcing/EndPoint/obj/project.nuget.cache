@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+70/1R2BtB5Mg/fMVeGBelAnntD9xRw1A4ti8bkTqm31P5AWa7v3RSydfaMICMpFIHgjuErVCJPimRXROcVbAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hasan\\Desktop\\Projects\\EventSourcing\\EventSourcing\\EndPoint\\EndPoint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hasan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
